@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyecto nuevo\\TrabajoPractico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\models\\dirigente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\models\\dirigente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\trabajopractico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\trabajopractico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|c:\\proyecto nuevo\\trabajopractico\\trabajopractico\\trabajopractico.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EA91CA02-11E1-48F4-A149-E14D77A67982}|TrabajoPractico\\TrabajoPractico.csproj|solutionrelative:trabajopractico\\trabajopractico.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TrabajoPractico\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:51:04.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\Socio.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Models\\Socio.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\Socio.cs",
+              "RelativeToolTip": "TrabajoPractico\\Models\\Socio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:13:55.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Program.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Program.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Program.cs",
+              "RelativeToolTip": "TrabajoPractico\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Data\\Db.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Data\\Db.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Data\\Db.cs",
+              "RelativeToolTip": "TrabajoPractico\\Data\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:15:07.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\appsettings.json",
+              "RelativeDocumentMoniker": "TrabajoPractico\\appsettings.json",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\appsettings.json",
+              "RelativeToolTip": "TrabajoPractico\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T15:08:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TrabajoPractico\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:22:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Models\\AuthModels.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\AuthModels.cs",
+              "RelativeToolTip": "TrabajoPractico\\Models\\AuthModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:10:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dirigente.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\Dirigente.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Models\\Dirigente.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\Dirigente.cs",
+              "RelativeToolTip": "TrabajoPractico\\Models\\Dirigente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:13:29.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Models\\Club.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Models\\Club.cs",
+              "RelativeToolTip": "TrabajoPractico\\Models\\Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:13:06.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TrabajoPractico\\WeatherForecast.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\WeatherForecast.cs",
+              "RelativeToolTip": "TrabajoPractico\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:42:28.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrabajoPractico.http",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\TrabajoPractico.http",
+              "RelativeDocumentMoniker": "TrabajoPractico\\TrabajoPractico.http",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\TrabajoPractico.http",
+              "RelativeToolTip": "TrabajoPractico\\TrabajoPractico.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-04T23:42:26.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TrabajoPractico\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TrabajoPractico\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T23:47:27.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrabajoPractico.csproj",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\TrabajoPractico.csproj",
+              "RelativeDocumentMoniker": "TrabajoPractico\\TrabajoPractico.csproj",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoPractico\\TrabajoPractico\\TrabajoPractico.csproj",
+              "RelativeToolTip": "TrabajoPractico\\TrabajoPractico.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T23:42:29.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
