@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyecto nuevo\\TrabajoProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|c:\\proyecto nuevo\\trabajoproyecto\\trabajoproyecto\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|solutionrelative:trabajoproyecto\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|c:\\proyecto nuevo\\trabajoproyecto\\trabajoproyecto\\models\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|solutionrelative:trabajoproyecto\\models\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|c:\\proyecto nuevo\\trabajoproyecto\\trabajoproyecto\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|solutionrelative:trabajoproyecto\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|c:\\proyecto nuevo\\trabajoproyecto\\trabajoproyecto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|solutionrelative:trabajoproyecto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|c:\\proyecto nuevo\\trabajoproyecto\\trabajoproyecto\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|solutionrelative:trabajoproyecto\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|c:\\proyecto nuevo\\trabajoproyecto\\trabajoproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A7882E8-83B4-4F5A-948C-2C995698BEF4}|TrabajoProyecto\\TrabajoProyecto.csproj|solutionrelative:trabajoproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Models\\Responses.cs",
+              "RelativeDocumentMoniker": "TrabajoProyecto\\Models\\Responses.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Models\\Responses.cs",
+              "RelativeToolTip": "TrabajoProyecto\\Models\\Responses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:14:27.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "TrabajoProyecto\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "TrabajoProyecto\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:01:30.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocioController.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Controllers\\SocioController.cs",
+              "RelativeDocumentMoniker": "TrabajoProyecto\\Controllers\\SocioController.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Controllers\\SocioController.cs",
+              "RelativeToolTip": "TrabajoProyecto\\Controllers\\SocioController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAlwIYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T23:24:23.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Models\\Socio.cs",
+              "RelativeDocumentMoniker": "TrabajoProyecto\\Models\\Socio.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Models\\Socio.cs",
+              "RelativeToolTip": "TrabajoProyecto\\Models\\Socio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T23:42:40.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\appsettings.json",
+              "RelativeDocumentMoniker": "TrabajoProyecto\\appsettings.json",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\appsettings.json",
+              "RelativeToolTip": "TrabajoProyecto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T23:28:21.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TrabajoProyecto\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Proyecto nuevo\\TrabajoProyecto\\TrabajoProyecto\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TrabajoProyecto\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:07:34.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
